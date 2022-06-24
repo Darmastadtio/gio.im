@@ -1,3 +1,5 @@
+[Blog](PAGINE/BLOG/indexBlog.md) // [Cose e Progetti](PAGINE/COSE_E_PROGETTI/indexCoseProgetti.md)
+
 ### CIAO! 
 E BENVENUTA/O NEL SUL MIO NODO NELLA RETE
 
