@@ -3,6 +3,11 @@
 ---
 
 # QUELLA VOLTA CHE NON LA DIEDI VINTA A WINDOWS10
+**Una breve avventura digitale**
+
+#eventi
+
+~
 
 Questo è il racconto, la storia, il decantare le geste di un umile fruitore di un sistema operativo closed source che, di fronte ad un assolutamente non importante e completamente trascurabile avvenimento quale è il premere per erreo il tasto "invio" dopo aver effetuato una ricerca tra le cartelle tramite lo "start" del suddetto sistema operativo closed source (da qua in avanti w10, per premura di caratteri), si ritrova avviato, aperto, in esecuzione Microsoft Edge avente in grembo una ricerca su Bing: allineamenti astrali che costringono l'uomo a riesumare le proprie scelte e a doverne seppellire di nuove.
 
@@ -28,3 +33,7 @@ Aah, sospiro di solievo. Cosa ci portiamo a casa da questa storia, papà castoro
 
 È un discorsone: questo forse non è il momento.
 L'arbitro fischia. Fine partita. Ho vinto 999999 a 2!
+
+~
+
+**> 16 GIUGNO 2022** | Gio
