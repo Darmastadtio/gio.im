@@ -27,11 +27,24 @@ __
 
 __
 
-### ABBIAMO BISOGNO DELLA NOIA?
+### [ABBIAMO BISOGNO DELLA NOIA?](blog3.md)
 *Less is more. No?*
 
 XX FEBBRAIO 2022 | #opinioni
 
+__
+
+### [NOI, RAGAZZI DELLO ZOO DI BERLINO](blog2.md)
+*ovvero chiedersi: quanto è profonda la tana del bianconiglio?*
+
+21 GENNAIO 2022 | #libri
+
+__
+
+### [THE GAME](blog1.md)
+*Un libro boomer scritto per boomer (di tutte le età)*
+
+31 MARZO 2O21 | #libri
 __
 
 :)
