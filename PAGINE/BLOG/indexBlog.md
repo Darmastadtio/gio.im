@@ -10,7 +10,7 @@ Ciao! Cosa è questa pagina? A cosa serve questa pagina? Perchè esiste questa p
 
 ---
 
-### [QUELLA VOLTA CHE NON LA DIEDI VINTA A WINDOWS10](PAGINE/BLOG/blog5.md)
+### [QUELLA VOLTA CHE NON LA DIEDI VINTA A WINDOWS10](blog5.md)
 *Una breve avventura digitale*
 
 16/maggio/2022 | #eventi
