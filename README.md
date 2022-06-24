@@ -1,18 +1,18 @@
 ### CIAO! 
 E BENVENUTA/O NEL SUL MIO NODO NELLA RETE
 
-\~~
+\~
 
 #### DOVE SIAMO?
 Cosa è questo? Questo è il mio sito, ed io sono **Giorgio**, un internauta di cui potrai scoprire, bhe, varie cose esplorando questo mio piccolo nodo/angolo nella rete!  
 Qua sotto trovi alcuni aggiornamenti "_rapidi_", dei pensieri diciamo così; nel menù in alto (o a sinistra se mi stai leggendo da smartphone) puoi iniziare ad esplorare il mio _mondo_.  
 **Pronti Partenza Via!**
 
-\~~
+\~
 
 #### LE ULTIME DA ME:
 
-| 16/06/2022 |
+<mark>| 16/06/2022 |</mark>
 
 Cose nuove nel Blog! Una piccola avventura/disavventura di oggi!
 
