@@ -17,4 +17,5 @@ L’oblò impiegò tempo a tornare ad una temperatura tale da poter operare; un 
 
 ~
 
-**> 10 MARZO 2022 |** Gio
+**> 10 MARZO 2022** |
+Gio

@@ -1,4 +1,4 @@
-[Blog](PAGINE/BLOG/indexBlog.md) | [Cose e Hobby](PAGINE/COSEHOBBY/indexCoseHobby.md) | [Cose e Progetti](PAGINE/COSEPROGETTI/indexCoseProgetti.md)
+[Home](README.md) | [GIO](PAGINE/GIO/indexGio.md) | [Blog](PAGINE/BLOG/indexBlog.md) | [Cose](PAGINE/COSE/indexCose.md) | [Contatti](PAGINE/CONTATTI/indexContatti.md)
 
 ---
 
