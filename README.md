@@ -1,4 +1,4 @@
-[Blog](PAGINE/BLOG/indexBlog.md) // [Cose e Progetti](PAGINE/COSEHOBBYI/indexCoseProgetti.md)
+[Blog](PAGINE/BLOG/indexBlog.md) // [Cose e Hobby](PAGINE/COSEHOBBYI/indexCoseHobby.md) // [Cose e Progetti](PAGINE/COSEPROGETTI/indexCoseProgetti.md)
 
 ### CIAO! 
 E BENVENUTA/O NEL SUL MIO NODO NELLA RETE
