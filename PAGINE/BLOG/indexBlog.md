@@ -24,3 +24,14 @@ __
 *un piccolo estratto della mia tesi di laurea*
 
 10 MARZO 2022 | #racconti
+
+__
+
+### ABBIAMO BISOGNO DELLA NOIA?
+*Less is more. No?*
+
+XX FEBBRAIO 2022 | #opinioni
+
+__
+
+:)
