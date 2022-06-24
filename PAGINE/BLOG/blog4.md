@@ -1,4 +1,4 @@
-[Home](gio.im/README.md)
+[Home](https://darmastadtio.github.io/gio.im/)
 
 # IL MIO PARADOSSO DEL NONNO
 
