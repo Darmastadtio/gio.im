@@ -1,6 +1,1 @@
-remote_theme: b2a3e8/jekyll-theme-console
-header_pages: README.md
-
-style: dark # dark (default), light or hacker
-
-footer: 'di Marchetti Giorgio - 2022 - Tutti i Diritti Riservati'
+remote_theme: abhn/Elemntary
