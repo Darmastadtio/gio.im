@@ -1,3 +1,9 @@
+[Home](../../README.md) | [Blog](indexBlog.md) | [Cose e Hobby](../COSEHOBBY/indexCoseHobby.md) | [Cose e Progetti](../COSEPROGETTI/indexCoseProgetti.md)
+
+---
+
+# QUELLA VOLTA CHE NON LA DIEDI VINTA A WINDOWS10
+
 Questo è il racconto, la storia, il decantare le geste di un umile fruitore di un sistema operativo closed source che, di fronte ad un assolutamente non importante e completamente trascurabile avvenimento quale è il premere per erreo il tasto "invio" dopo aver effetuato una ricerca tra le cartelle tramite lo "start" del suddetto sistema operativo closed source (da qua in avanti w10, per premura di caratteri), si ritrova avviato, aperto, in esecuzione Microsoft Edge avente in grembo una ricerca su Bing: allineamenti astrali che costringono l'uomo a riesumare le proprie scelte e a doverne seppellire di nuove.
 
 Tutto questo preambolo per dire: da utente decennale di windows7 e poi w10, mi sono stufato di praticamente non poter usare la funzione di ricerca del menù "start" del mio sistema operativo in quanto mai ricercava a fondo in tutte le mie cartelle e i miei file, nonchè sempre finiva per avviare una ricerca su Edge e poi su Bing. Oggi è giunto il momento di porre rimedio a questa fastidiosa questione e sono salpato alla volta della rete!

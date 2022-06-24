@@ -1,4 +1,6 @@
-[Home](https://darmastadtio.github.io/gio.im/)
+[Home](../../README.md) | [Blog](indexBlog.md) | [Cose e Hobby](../COSEHOBBY/indexCoseHobby.md) | [Cose e Progetti](../COSEPROGETTI/indexCoseProgetti.md)
+
+---
 
 # IL MIO PARADOSSO DEL NONNO
 
