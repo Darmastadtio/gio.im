@@ -7,14 +7,12 @@ Qua sotto trovi alcuni aggiornamenti "_rapidi_", dei pensieri diciamo così; nel
 
 #### LE ULTIME DA ME:
 
-**> 16/06/2022**
-
+**> 16/06/2022 |**
 Cose nuove nel Blog! Una piccola avventura/disavventura di oggi!
 
 __
 
-**| 26/04/2022 |**
-
+**> 26/04/2022 |**
 Ho creato una pagina nuova, o meglio due: una vera e propria che è Bicicletta dove ho intenzione di racchiudere i link o le tracce GPS dei miei gironzoli in bicicletta, e una fantoccio "Cose e Hobby" dove poter trovare le pagine gemelle degli altri miei hobby Libri e Fotografia.
 Il sito si espande!
 
