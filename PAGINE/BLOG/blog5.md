@@ -1,5 +1,4 @@
-[Home](../../README.md) | [Blog](indexBlog.md) | [Cose e Hobby](../COSEHOBBY/indexCoseHobby.md) | [Cose e Progetti](../COSEPROGETTI/indexCoseProgetti.md)
-
+[Home](../../README.md) | [Gio](../GIO/indexGio.md)| [Blog](indexBlog.md) | [Cose](../COSE/indexCose.md) | [Contatti](../CONTATTI/indexContatti.md)
 ---
 
 # QUELLA VOLTA CHE NON LA DIEDI VINTA A WINDOWS10

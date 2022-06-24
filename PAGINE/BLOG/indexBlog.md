@@ -1,4 +1,4 @@
-[Home](../../README.md) | [Gio](../GIO/indexGio.md)| [Blog](indexBlog.md) | [Cose](../COSE/indexCose.md)) | [Contatti](../CONTATTI/indexContatti.md)
+[Home](../../README.md) | [Gio](../GIO/indexGio.md)| [Blog](indexBlog.md) | [Cose](../COSE/indexCose.md) | [Contatti](../CONTATTI/indexContatti.md)
 
 ---
 

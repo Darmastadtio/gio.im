@@ -1,4 +1,4 @@
-[Home](README.md) | [GIO](PAGINE/GIO/indexGio.md) | [Blog](PAGINE/BLOG/indexBlog.md) | [Cose](PAGINE/COSE/indexCose.md) | [Contatti](PAGINE/CONTATTI/indexContatti.md)
+[Home](README.md) | [Gio](PAGINE/GIO/indexGio.md) | [Blog](PAGINE/BLOG/indexBlog.md) | [Cose](PAGINE/COSE/indexCose.md) | [Contatti](PAGINE/CONTATTI/indexContatti.md)
 
 ---
 
