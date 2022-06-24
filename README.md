@@ -1,4 +1,4 @@
-[Blog](PAGINE/BLOG/indexBlog.md) // [Cose e Hobby](PAGINE/COSEHOBBY/indexCoseHobby.md) // [Cose e Progetti](PAGINE/COSEPROGETTI/indexCoseProgetti.md)
+[Blog](PAGINE/BLOG/indexBlog.md) | [Cose e Hobby](PAGINE/COSEHOBBY/indexCoseHobby.md) | [Cose e Progetti](PAGINE/COSEPROGETTI/indexCoseProgetti.md)
 
 ---
 

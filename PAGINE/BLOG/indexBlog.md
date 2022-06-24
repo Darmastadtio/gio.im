@@ -1,4 +1,4 @@
-[Home](README.md) // [Blog](indexBlog.md) // [Cose e Hobby](bho)
+[Home](README.md) | [Blog](indexBlog.md) | [Cose e Hobby](bho)
 
 ---
 
