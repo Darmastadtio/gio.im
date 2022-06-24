@@ -1,5 +1,4 @@
-## CIAO!
-e Benvenuta/o sul mio Nodo nella Rete!
+## CIAO! e Benvenuta/o sul mio Nodo nella Rete!
 
 #### DOVE SIAMO?
 Cosa è questo? Questo è il mio sito, ed io sono **Giorgio**, un internauta di cui potrai scoprire, bhe, varie cose esplorando questo mio piccolo nodo/angolo nella rete!  
