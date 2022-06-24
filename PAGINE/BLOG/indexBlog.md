@@ -1,4 +1,4 @@
-[Home](/gio.im) | [Blog](indexBlog.md) | [Cose e Hobby](bho)
+[Home](PAGINE/gio.im) | [Blog](indexBlog.md) | [Cose e Hobby](bho)
 
 ---
 
